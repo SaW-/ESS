@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="newest">Newest</string>	
+	<string name="trending">Trending</string>
+	<string name="lames">Lames</string>
+	<string name="fav">Favorites</string>
+</resources>

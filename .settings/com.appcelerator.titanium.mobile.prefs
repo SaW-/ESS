@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=ess
+android/abi=armeabi
+android/distribute_path=C\:\\Users\\Shady\\Desktop
+android/keystore_alias=saw
+android/keystore_password=saw1990
+android/keystore_path=D\:\\SaW\\Programs\\adt-bundle\\saw
+android/recent_output=C\:\\Users\\Shady\\Desktop
+android/sdk_version=Google APIs (Android 2.3.3)
+eclipse.preferences.version=1
